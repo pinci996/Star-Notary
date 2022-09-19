@@ -1,0 +1,24 @@
+{
+  "name": "star_notary",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.0.0",
+    "@truffle/hdwallet-provider": "^1.2.6",
+    "openzeppelin-solidity": "2.0.0-rc.1",
+    "solc": "^0.8.17"
+  },
+  "description": "",
+  "devDependencies": {
+    "webpack": "^5.74.0"
+  }
+}
